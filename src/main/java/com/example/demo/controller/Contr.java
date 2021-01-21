@@ -4,6 +4,6 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class Contr {
-    private String s = "Hello sir!";
+    private String s = "Hello!";
     public boolean b;
 }
