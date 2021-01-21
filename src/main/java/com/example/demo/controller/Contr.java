@@ -6,4 +6,5 @@ import org.springframework.stereotype.Controller;
 public class Contr {
     private int i = 5;
     private String s = "Hello sir!";
+    private int age;
 }
