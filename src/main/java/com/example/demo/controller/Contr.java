@@ -7,15 +7,6 @@ public class Contr {
     private int i = 5;
     private String s = "Hello sir!";
     private int age;
+
+    //new changes in Branch 5
 }
-//change1
-//change2
-//change3
-//change4
-//change5
-//change6
-//change6
-//change7
-//change8
-//change9
-//change10
